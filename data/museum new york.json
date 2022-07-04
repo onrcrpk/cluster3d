@@ -1,0 +1,3358 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-06-28T13:21:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140292",
+        "addr:state": "CT",
+        "ele": "56",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1943203",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Wilton Heritage Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4270651,
+          41.1900961
+        ]
+      },
+      "id": "node/367140292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140295",
+        "addr:housenumber": "4450",
+        "addr:state": "CT",
+        "addr:street": "Park Avenue",
+        "ele": "70",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1943051",
+        "gnis:reviewed": "no",
+        "image": "https://commons.wikimedia.org/wiki/File:DiscoveryMuseumBPT.jpg",
+        "name": "Discovery Museum and Planetarium",
+        "phone": "203-372-3521",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "website": "http://www.discoverymuseum.org/",
+        "wikidata": "Q5281942",
+        "wikipedia": "en:Discovery Museum and Planetarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2331951,
+          41.2150394
+        ]
+      },
+      "id": "node/367140295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140298",
+        "addr:state": "CT",
+        "ele": "57",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1942987",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Stamford Historical Society Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5457852,
+          41.1233642
+        ]
+      },
+      "id": "node/367140298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140304",
+        "addr:state": "CT",
+        "amenity": "library",
+        "ele": "9",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1942611;1942612",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Norwalk Museum;Norwalk Museum Historical Reference Library",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4070033,
+          41.112094
+        ]
+      },
+      "id": "node/367140304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140305",
+        "addr:state": "CT",
+        "ele": "109",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1942531",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "New Canaan Historical Society Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4973447,
+          41.150374
+        ]
+      },
+      "id": "node/367140305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140307",
+        "addr:state": "CT",
+        "ele": "38",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1942481",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Mid Fairfield Youth Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3784518,
+          41.1470409
+        ]
+      },
+      "id": "node/367140307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140313",
+        "addr:state": "CT",
+        "ele": "14",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1942245",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Housatonic Museum of Art",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q5913507",
+        "wikipedia": "en:Housatonic Museum of Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1906187,
+          41.1749763
+        ]
+      },
+      "id": "node/367140313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140314",
+        "addr:state": "CT",
+        "ele": "108",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1942365",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "John Rogers Studio and Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q6255455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4973447,
+          41.1500962
+        ]
+      },
+      "id": "node/367140314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140322",
+        "addr:state": "CT",
+        "ele": "14",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1941920",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Connecticut Audubon Birdcraft Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q5161481",
+        "wikipedia": "en:Connecticut Audubon Society Birdcraft Museum and Sanctuary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2589349,
+          41.1452632
+        ]
+      },
+      "id": "node/367140322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140323",
+        "addr:state": "CT",
+        "ele": "30",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1941928",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Connecticut Graphis Arts Center and Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4978993,
+          41.0706524
+        ]
+      },
+      "id": "node/367140323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140324",
+        "addr:state": "CT",
+        "ele": "11",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1941790",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bruce Museum Library",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6201261,
+          41.0187084
+        ]
+      },
+      "id": "node/367140324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140325",
+        "addr:state": "CT",
+        "ele": "10",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1941826",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Catharine B Mitchell Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1301095,
+          41.1875971
+        ]
+      },
+      "id": "node/367140325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140326",
+        "gnis:feature_id": "1941740",
+        "name": "Boothe Memorial Museum",
+        "tourism": "museum",
+        "wikidata": "Q4943925",
+        "wikipedia": "en:Boothe Memorial Park and Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1112202,
+          41.2356524
+        ]
+      },
+      "id": "node/367140326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367140327",
+        "addr:state": "CT",
+        "ele": "11",
+        "gnis:county_name": "Fairfield",
+        "gnis:feature_id": "1941789",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bruce Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q4978056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6201261,
+          41.0187084
+        ]
+      },
+      "id": "node/367140327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367697349",
+        "addr:state": "NJ",
+        "ele": "9",
+        "gnis:county_name": "Union",
+        "gnis:feature_id": "2056103",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bonnel House Historical Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2084784,
+          40.6637138
+        ]
+      },
+      "id": "node/367697349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367697376",
+        "addr:housenumber": "213",
+        "addr:postcode": "07030",
+        "addr:state": "NJ",
+        "addr:street": "Bloomfield Street",
+        "ele": "5",
+        "gnis:county_name": "Hudson",
+        "gnis:feature_id": "2059168",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Hoboken Fire Department Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q4809792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0309564,
+          40.739273
+        ]
+      },
+      "id": "node/367697376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367697388",
+        "addr:state": "NJ",
+        "ele": "3",
+        "gnis:county_name": "Hudson",
+        "gnis:feature_id": "2060323",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Hoboken Historical Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q14705586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0249925,
+          40.7521438
+        ]
+      },
+      "id": "node/367697388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367697399",
+        "addr:state": "NJ",
+        "ele": "6",
+        "gnis:county_name": "Bergen",
+        "gnis:feature_id": "2054408",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bergen Museum of Art and Science",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q4891525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0422885,
+          40.8856186
+        ]
+      },
+      "id": "node/367697399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367697417",
+        "addr:state": "NJ",
+        "ele": "87",
+        "gnis:county_name": "Bergen",
+        "gnis:feature_id": "2054595",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Fort Lee Museum at the Judge Moore House",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9687885,
+          40.8483928
+        ]
+      },
+      "id": "node/367697417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367697456",
+        "addr:state": "NJ",
+        "ele": "29",
+        "gnis:county_name": "Bergen",
+        "gnis:feature_id": "2339204",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Hiram Bauvelt Wildlife Art Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0313337,
+          40.9652805
+        ]
+      },
+      "id": "node/367697456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367697543",
+        "addr:state": "NJ",
+        "ele": "100",
+        "gnis:county_name": "Morris",
+        "gnis:feature_id": "2052937",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "United Methodist Archives and History Center",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4239006,
+          40.7612993
+        ]
+      },
+      "id": "node/367697543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368042964",
+        "addr:housenumber": "20",
+        "addr:state": "NY",
+        "addr:street": "Sicard Avenue",
+        "building": "yes",
+        "ele": "26",
+        "gnis:county_name": "Westchester",
+        "gnis:feature_id": "2063238",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Thomas Paine Cottage and Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7911111,
+          40.9344444
+        ]
+      },
+      "id": "node/368042964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368052081",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2057419",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "name": "Fraunces Tavern Museum",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q2947539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0113536,
+          40.7033867
+        ]
+      },
+      "id": "node/368052081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061337",
+        "addr:city": "New York",
+        "addr:postcode": "10004",
+        "addr:state": "NY",
+        "ele": "3",
+        "gnis:feature_id": "2057415",
+        "name": "National Museum of the American Indian",
+        "name:es": "Museo Nacional de Indigena",
+        "opening_hours": "Fr-We 10:00-17:00; Th 10:00-20:00",
+        "phone": "+12125143700",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q5539979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0137472,
+          40.7040265
+        ]
+      },
+      "id": "node/368061337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061451",
+        "addr:city": "Manhasset",
+        "addr:housenumber": "1526",
+        "addr:postcode": "11030",
+        "addr:state": "NY",
+        "ele": "10",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2075091",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Science Museum of Long Island",
+        "phone": "(516) 627-9400",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "website": "http://smli.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7013321,
+          40.8153928
+        ]
+      },
+      "id": "node/368061451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061456",
+        "addr:state": "NY",
+        "ele": "25",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2075095",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Van Nostrand - Starkins House And Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6463889,
+          40.7944444
+        ]
+      },
+      "id": "node/368061456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061460",
+        "addr:state": "NY",
+        "ele": "6",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2075096",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Wantagh Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q14707716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5102778,
+          40.6805556
+        ]
+      },
+      "id": "node/368061460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061469",
+        "addr:state": "NY",
+        "ele": "4",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2075072",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Grist Mill Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6632609,
+          40.6463869
+        ]
+      },
+      "id": "node/368061469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061476",
+        "addr:state": "NY",
+        "ele": "2",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2075089",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Rock Hall Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q7354447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7340929,
+          40.6089388
+        ]
+      },
+      "id": "node/368061476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061480",
+        "addr:state": "NY",
+        "ele": "11",
+        "gnis:county_name": "Richmond",
+        "gnis:feature_id": "2079161",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "name": "Garibaldi - Meucci Memorial Museum",
+        "source": "USGS Geonames",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "website": "http://www.garibaldimeuccimuseum.org/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0736112,
+          40.6152779
+        ]
+      },
+      "id": "node/368061480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061507",
+        "addr:state": "NY",
+        "ele": "31",
+        "gnis:county_name": "Westchester",
+        "gnis:feature_id": "2063239",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Thomas Paine National Historic Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7916667,
+          40.9352778
+        ]
+      },
+      "id": "node/368061507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061518",
+        "addr:housenumber": "1040",
+        "addr:postcode": "10456",
+        "addr:state": "NY",
+        "addr:street": "Grand Concourse",
+        "ele": "27",
+        "gnis:county_name": "Bronx",
+        "gnis:feature_id": "2072320",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bronx Museum of the Arts",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q4974195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9199471,
+          40.8310911
+        ]
+      },
+      "id": "node/368061518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061551",
+        "addr:state": "NY",
+        "ele": "10",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2075059",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Earle - Wightman House Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q5326398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5303235,
+          40.8707183
+        ]
+      },
+      "id": "node/368061551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061562",
+        "addr:state": "NY",
+        "ele": "3",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2074766",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Tackapausha Museum Library",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4833816,
+          40.6676639
+        ]
+      },
+      "id": "node/368061562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061566",
+        "addr:state": "NY",
+        "ele": "3",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2074765",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Tackapausha Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4833816,
+          40.6678592
+        ]
+      },
+      "id": "node/368061566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061605",
+        "addr:state": "NY",
+        "ele": "11",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2091590",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Yeshiva University Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q8052851",
+        "wikipedia": "en:Yeshiva University Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9938889,
+          40.7377778
+        ]
+      },
+      "id": "node/368061605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061607",
+        "addr:state": "NY",
+        "ele": "16",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2091587",
+        "name": "Dahesh Museum of Art",
+        "start_date": "1995",
+        "tourism": "museum",
+        "website": "http://www.daheshmuseum.org/",
+        "wikidata": "Q2999991",
+        "wikipedia": "en:Dahesh Museum of Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0049076,
+          40.7250957
+        ]
+      },
+      "id": "node/368061607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061644",
+        "addr:state": "NY",
+        "ele": "11",
+        "gnis:county_name": "Queens",
+        "gnis:feature_id": "2079317",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Museum of the Moving Image",
+        "source": "USGS Geonames",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q465765",
+        "wikipedia": "en:Museum of the Moving Image (New York City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9240069,
+          40.7561949
+        ]
+      },
+      "id": "node/368061644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061648",
+        "addr:housenumber": "99",
+        "addr:postcode": "11201",
+        "addr:street": "Schermerhorn Street",
+        "description": "Undeground museum in disused subway tunnel. Main entrance on Schermerhorn Street at Boerum Place, wheelchair-accessible entrance on Schermerhorn Street at Court Street",
+        "gnis:feature_id": "2081296",
+        "name": "New York Transit Museum",
+        "opening_hours": "Fr-Su 11:00-17:00",
+        "operator": "MTA",
+        "tourism": "museum",
+        "website": "https://www.nytransitmuseum.org",
+        "wheelchair": "limited",
+        "wikidata": "Q1503777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9899802,
+          40.6905176
+        ]
+      },
+      "id": "node/368061648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061657",
+        "addr:state": "NY",
+        "ele": "10",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2080645",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Museum of African Art",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9977778,
+          40.725
+        ]
+      },
+      "id": "node/368061657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061660",
+        "addr:city": "New York",
+        "addr:country": "US",
+        "addr:housenumber": "103",
+        "addr:state": "NY",
+        "addr:street": "Orchard Street",
+        "alt_name": "Tenement Museum",
+        "ele": "12",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2080632",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Lower East Side Tenement Museum",
+        "phone": "+1 212-982-8420",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "website": "https://www.tenement.org/",
+        "wikidata": "Q901533",
+        "wikipedia": "en:Lower East Side Tenement Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9900266,
+          40.7187837
+        ]
+      },
+      "id": "node/368061660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061667",
+        "addr:state": "NY",
+        "ele": "14",
+        "gnis:county_name": "Kings",
+        "gnis:feature_id": "2081757",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Erasmus Hall Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9575,
+          40.6494444
+        ]
+      },
+      "id": "node/368061667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061866",
+        "addr:state": "NY",
+        "ele": "6",
+        "gnis:county_name": "Bronx",
+        "gnis:feature_id": "943125",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Bartow-Pell Mansion Museum",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q4865770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8056401,
+          40.8717809
+        ]
+      },
+      "id": "node/368061866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368061900",
+        "addr:state": "NY",
+        "ele": "54",
+        "gnis:county_name": "Nassau",
+        "gnis:feature_id": "2463472",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Nassau County Museum of Art",
+        "source": "USGS Geonames",
+        "tourism": "museum",
+        "wikidata": "Q6967563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6435754,
+          40.8077183
+        ]
+      },
+      "id": "node/368061900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418524116",
+        "name": "Show Gallery Studio",
+        "tourism": "museum",
+        "website": "http://www.showhownyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0766559,
+          40.6424957
+        ]
+      },
+      "id": "node/418524116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424048139",
+        "name": "Noble Maritime Museum",
+        "tourism": "museum",
+        "website": "http://www.noblemaritime.org/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1017711,
+          40.644304
+        ]
+      },
+      "id": "node/424048139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424048146",
+        "name": "Newhouse Center for Contemporary Art",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q7018212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1022726,
+          40.6439214
+        ]
+      },
+      "id": "node/424048146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424048153",
+        "name": "Staten Island Museum",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q1140168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1024443,
+          40.6444649
+        ]
+      },
+      "id": "node/424048153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424061246",
+        "name": "ArtLab",
+        "tourism": "museum",
+        "website": "http://www.artlab.info/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.102675,
+          40.6440131
+        ]
+      },
+      "id": "node/424061246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424084550",
+        "name": "Great Hall",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1016222,
+          40.6436836
+        ]
+      },
+      "id": "node/424084550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/479399528",
+        "name": "Mahwah Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1447203,
+          41.0939211
+        ]
+      },
+      "id": "node/479399528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566445454",
+        "addr:city": "New York",
+        "addr:country": "US",
+        "addr:housenumber": "1133",
+        "addr:postcode": "10036",
+        "addr:state": "NY",
+        "addr:street": "6th Avenue",
+        "email": "info@icp.org",
+        "name": "International Center of Photography",
+        "tourism": "museum",
+        "website": "https://www.icp.org/",
+        "wikidata": "Q636942",
+        "wikipedia": "en:International Center of Photography"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9837251,
+          40.7557394
+        ]
+      },
+      "id": "node/566445454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/608435749",
+        "name": "Carlstadt Historical Society",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0893185,
+          40.8380844
+        ]
+      },
+      "id": "node/608435749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/736950265",
+        "name": "School House Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.093992,
+          40.9856594
+        ]
+      },
+      "id": "node/736950265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913644165",
+        "name": "William D. McDowell Observatory",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1053255,
+          40.7856782
+        ]
+      },
+      "id": "node/913644165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1089084022",
+        "addr:city": "Long Beach",
+        "addr:housenumber": "226",
+        "addr:postcode": "11561",
+        "addr:state": "NY",
+        "addr:street": "West Penn Street",
+        "name": "Long Beach Historical & Preservation Society Museum",
+        "nysgissam:nysaddresspointid": "NASS167566",
+        "tourism": "museum",
+        "wikidata": "Q5914133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6708405,
+          40.5852129
+        ]
+      },
+      "id": "node/1089084022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1549441335",
+        "addr:city": "New York",
+        "addr:country": "US",
+        "addr:housenumber": "4881",
+        "addr:postcode": "10034",
+        "addr:state": "NY",
+        "addr:street": "Broadway",
+        "description": "Museum in the city's only remaining Dutch colonial farmhouse (built circa 1764) and its garden.",
+        "email": "info@dyckmanfarmhouse.org",
+        "name": "Dyckman Farmhouse Museum",
+        "opening_hours": "Th-Sa 11:00-16:00; Su 11:00-15:00",
+        "phone": "+1-212-304-9422",
+        "tourism": "museum",
+        "website": "https://dyckmanfarmhouse.org/",
+        "wheelchair": "no",
+        "wikidata": "Q2865930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9228859,
+          40.8673822
+        ]
+      },
+      "id": "node/1549441335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1693299134",
+        "name": "Museum of American Finance",
+        "name:ru": "Музей финансов",
+        "opening_hours": "Tu-Sa 10:00-16:00",
+        "phone": "(212) 908-4110",
+        "tourism": "museum",
+        "website": "https://www.moaf.org/",
+        "wikidata": "Q5354207",
+        "wikipedia": "en:Museum of American Finance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0091958,
+          40.7063713
+        ]
+      },
+      "id": "node/1693299134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1810241472",
+        "addr:city": "New York",
+        "addr:housenumber": "150",
+        "addr:postcode": "10011",
+        "addr:state": "NY",
+        "addr:street": "West 17th Street",
+        "name": "Rubin Museum of Art",
+        "opening_hours": "Mo 11:00-17:00, Sa,Su 11:00-18:00; We 11:00-21:00, Th 11:00-17:00, Fr 11:00-22:00",
+        "phone": "+1-212-620-5000",
+        "tourism": "museum",
+        "website": "http://rubinmuseum.org/",
+        "wikidata": "Q63751",
+        "wikipedia": "en:Rubin Museum of Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9977377,
+          40.7400959
+        ]
+      },
+      "id": "node/1810241472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1928107785",
+        "name": "Crane-Phillips House",
+        "tourism": "museum",
+        "wikidata": "Q14705470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3018818,
+          40.6579646
+        ]
+      },
+      "id": "node/1928107785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2086702121",
+        "name": "Holmes Hendrickson House",
+        "tourism": "museum",
+        "wikidata": "Q5883508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1816524,
+          40.3729548
+        ]
+      },
+      "id": "node/2086702121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2086708077",
+        "name": "Longstreet Farm Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.184399,
+          40.3684591
+        ]
+      },
+      "id": "node/2086708077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2185003533",
+        "name": "Ryan Visitor Center",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8969221,
+          40.5881537
+        ]
+      },
+      "id": "node/2185003533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2204040856",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6228752,
+          41.0199765
+        ]
+      },
+      "id": "node/2204040856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295374778",
+        "name": "Nutley Museum",
+        "operator": "Nutley Historical Society",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1634388,
+          40.8184995
+        ]
+      },
+      "id": "node/2295374778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2567548346",
+        "fixme": "100 Gates Project may have moved to 54 Orchard, survey to confirm",
+        "name": "100 Gates Project",
+        "tourism": "museum",
+        "website": "https://100gates.nyc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9908729,
+          40.7165969
+        ]
+      },
+      "id": "node/2567548346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2611640871",
+        "alt_name": "New York Yankees Museum",
+        "name": "The Yankees Museum",
+        "tourism": "museum",
+        "wikidata": "Q7014872",
+        "wikipedia": "en:New York Yankees Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9258934,
+          40.8285709
+        ]
+      },
+      "id": "node/2611640871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2627856547",
+        "name": "Sterling Hill Mining Museum",
+        "tourism": "museum",
+        "wikidata": "Q7611425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6042592,
+          41.0834359
+        ]
+      },
+      "id": "node/2627856547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2704048088",
+        "addr:housenumber": "281",
+        "addr:postcode": "10010",
+        "addr:street": "Park Avenue South",
+        "contact:email": "hello.ny@fotografiska.com",
+        "contact:facebook": "FotografiskaNY",
+        "contact:instagram": "fotografiska.ny",
+        "contact:website": "https://www.fotografiska.com/nyc/",
+        "name": "Fotografiska",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "tourism": "museum",
+        "wikidata": "Q104830591",
+        "wikipedia": "en:Fotografiska New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986775,
+          40.7392696
+        ]
+      },
+      "id": "node/2704048088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2808241058",
+        "addr:city": "New York",
+        "addr:housenumber": "39",
+        "addr:postcode": "10280",
+        "addr:state": "NY",
+        "addr:street": "Battery Place",
+        "name": "Skyscraper Museum",
+        "opening_hours": "12-6, Weds-Sun",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q2915494",
+        "wikipedia": "en:Skyscraper Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0177051,
+          40.7057229
+        ]
+      },
+      "id": "node/2808241058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898706753",
+        "addr:housenumber": "12",
+        "addr:postcode": "10038",
+        "addr:street": "Fulton Street",
+        "name": "South Street Seaport Museum",
+        "opening_hours": "We-Su 11:00-16:00",
+        "phone": "+12127488600",
+        "tourism": "museum",
+        "website": "https://southstreetseaportmuseum.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q16025238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0036758,
+          40.706628
+        ]
+      },
+      "id": "node/2898706753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3154318791",
+        "name": "The Houdini Museum of New York",
+        "tourism": "museum",
+        "website": "http://www.houdinimuseumny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9906463,
+          40.7502679
+        ]
+      },
+      "id": "node/3154318791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3224793125",
+        "addr:city": "New York",
+        "addr:housenumber": "2",
+        "addr:state": "NY",
+        "addr:street": "Lincoln Square",
+        "gnis:county_name": "New York",
+        "gnis:feature_id": "2083275",
+        "height": "102.1",
+        "museum": "art",
+        "name": "American Folk Art Museum",
+        "nycdoitt:bin": "1028159",
+        "tourism": "museum",
+        "website": "http://www.folkartmuseum.org",
+        "wheelchair": "yes",
+        "wikidata": "Q464354",
+        "wikipedia": "en:American Folk Art Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9815958,
+          40.7732296
+        ]
+      },
+      "id": "node/3224793125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3298095220",
+        "addr:city": "New York",
+        "addr:housenumber": "103",
+        "addr:street": "Charlton Street",
+        "name": "Children's Museum of the Arts",
+        "short_name": "CMA",
+        "tourism": "museum",
+        "website": "https://cmany.org/",
+        "wikidata": "Q5098190",
+        "wikipedia": "en:Children's Museum of the Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0081354,
+          40.7275353
+        ]
+      },
+      "id": "node/3298095220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3350222381",
+        "changing_table": "yes",
+        "contact:website": "http://www.statenislandkids.org/",
+        "name": "Staten Island Children's Museum",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q7603985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1019543,
+          40.6424514
+        ]
+      },
+      "id": "node/3350222381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3389885751",
+        "addr:city": "Hempstead",
+        "addr:housenumber": "110",
+        "addr:postcode": "11550",
+        "addr:state": "NY",
+        "addr:street": "North Franklin Street",
+        "name": "African American Museum",
+        "nysgissam:nysaddresspointid": "NASS101769",
+        "operator": "Nassau County Parks, Recreation, Museums",
+        "tourism": "museum",
+        "website": "https://theaamuseum.org/",
+        "wikidata": "Q4689667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6275782,
+          40.7094882
+        ]
+      },
+      "id": "node/3389885751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3595259659",
+        "name": "Oyster Bay Railroad Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5322676,
+          40.8742883
+        ]
+      },
+      "id": "node/3595259659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3595262121",
+        "name": "20th Century Cycles",
+        "operator": "Billy Joel",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5327497,
+          40.8743014
+        ]
+      },
+      "id": "node/3595262121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3623620317",
+        "name": "The Museum at FIT",
+        "opening_hours": "Tu-Fr 12:00-20:00; Sa 10:00-17:00",
+        "operator": "The Museum at FIT",
+        "tourism": "museum",
+        "website": "http://www.fitnyc.edu/museum.asp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9941473,
+          40.7466544
+        ]
+      },
+      "id": "node/3623620317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783374010",
+        "addr:city": "Keyport",
+        "addr:housenumber": "34",
+        "addr:postcode": "07735",
+        "addr:state": "NJ",
+        "addr:street": "Main Street",
+        "name": "Keyport Historical Society",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2031479,
+          40.4361679
+        ]
+      },
+      "id": "node/3783374010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3940807665",
+        "name": "Maritime National Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7910534,
+          40.8051618
+        ]
+      },
+      "id": "node/3940807665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4031341445",
+        "name": "Brookhaven Volunteer Firefighters Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8652865,
+          40.9049011
+        ]
+      },
+      "id": "node/4031341445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4080363530",
+        "fee": "no",
+        "name": "The Trust for Governors Island",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0159547,
+          40.6927237
+        ]
+      },
+      "id": "node/4080363530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4224363289",
+        "addr:housenumber": "223",
+        "addr:postcode": "10016",
+        "addr:street": "5th Avenue",
+        "name": "Museum of Sex",
+        "opening_hours": "Mo-Th, Su 10:30-22:00; Fr, Sa 10:30-23:00",
+        "operator:type": "private",
+        "phone": "+1 212-689-6337",
+        "subject": "sex",
+        "tourism": "museum",
+        "website": "https://www.museumofsex.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q1322466",
+        "wikipedia": "en:Museum of sex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9873576,
+          40.7440374
+        ]
+      },
+      "id": "node/4224363289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4252536496",
+        "addr:city": "New York",
+        "addr:housenumber": "11",
+        "addr:postcode": "10010",
+        "addr:state": "NY",
+        "addr:street": "East 26th Street",
+        "description": "Award winning museum that highlights the role of mathematics in illuminating the patterns and structures all around us. Its dynamic exhibits, gallery, and programs are designed to stimulate inquiry, spark curiosity, and reveal the wonders of mathematics.",
+        "email": "info@momath.org",
+        "name": "National Museum of Mathematics",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "phone": "+1-212-542-0566",
+        "short_name": "MoMath",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://momath.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q6940939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9873437,
+          40.7432428
+        ]
+      },
+      "id": "node/4252536496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4328214489",
+        "name": "Falaise Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6891051,
+          40.8608144
+        ]
+      },
+      "id": "node/4328214489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332192139",
+        "addr:city": "New York",
+        "addr:housenumber": "155",
+        "addr:state": "NY",
+        "addr:street": "Mulberry Street",
+        "name": "Italian American Museum",
+        "phone": "+1 212-965-9000",
+        "tourism": "museum",
+        "website": "http://italianamericanmuseum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9974606,
+          40.7192537
+        ]
+      },
+      "id": "node/4332192139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4403759525",
+        "addr:city": "New Brunswick",
+        "addr:housenumber": "85",
+        "addr:postcode": "08901-1281",
+        "addr:state": "NJ",
+        "addr:street": "Somerset Street",
+        "level": "1",
+        "name": "Rutgers Geology Museum",
+        "operator": "Rutgers University",
+        "phone": "+1-848-932-7243",
+        "start_date": "1872",
+        "tourism": "museum",
+        "website": "https://geologymuseum.rutgers.edu/geology-museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.446722,
+          40.4987008
+        ]
+      },
+      "id": "node/4403759525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422126860",
+        "addr:city": "Glen Cove",
+        "addr:country": "US",
+        "addr:housenumber": "100",
+        "addr:place": "Holocaust Center",
+        "addr:postcode": "11542",
+        "addr:street": "Crescent Beach Road",
+        "contact:email": "info@hmtcli.org",
+        "contact:phone": "516.571.8040",
+        "contact:website": "http://www.hmtcli.org/",
+        "image": "https://en.wikipedia.org/wiki/Holocaust_Memorial_and_Tolerance_Center_of_Nassau_County#/media/File:Welwyn_mansion_in_Welwyn_Preserve.JPG",
+        "name": "Holocaust Memorial Center",
+        "official_name": "Holocaust Memorial and Tolerance Center of Nassau County",
+        "opening_hours": "Mo-Fr 10:00-16:30; Sa-Su 12:00-16:00",
+        "short_name": "HMTC",
+        "tourism": "museum",
+        "wikidata": "Q18737134",
+        "wikipedia": "en:Holocaust Memorial and Tolerance Center of Nassau County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.641692,
+          40.8840372
+        ]
+      },
+      "id": "node/4422126860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455068893",
+        "name": "Hostos Center for the Art and Culture",
+        "name:en": "Hostos Center for the Art and Culture",
+        "tourism": "museum",
+        "wikidata": "Q22329578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9274623,
+          40.8175297
+        ]
+      },
+      "id": "node/4455068893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455096389",
+        "name": "Bronx Documentary Center",
+        "name:en": "Bronx Documentary Center",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9186583,
+          40.8180322
+        ]
+      },
+      "id": "node/4455096389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462440249",
+        "name": "The Morgan Library & Museum",
+        "name:en": "The Morgan Library & Museum",
+        "tourism": "museum",
+        "wikidata": "Q1478423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9814793,
+          40.7491907
+        ]
+      },
+      "id": "node/4462440249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470030189",
+        "addr:housenumber": "555",
+        "addr:street": "West 24th Street",
+        "name": "Gagosian",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059445,
+          40.7494423
+        ]
+      },
+      "id": "node/4470030189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4491242890",
+        "addr:housenumber": "99",
+        "addr:street": "Margaret Corbin Drive",
+        "name": "The Met cloisters",
+        "name:en": "The Met cloisters",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9319228,
+          40.8648684
+        ]
+      },
+      "id": "node/4491242890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4493554025",
+        "addr:housenumber": "215",
+        "addr:postcode": "10013",
+        "addr:street": "Centre Street",
+        "email": "info@mocanyc.org",
+        "fax": "+1-212-619-4720",
+        "name": "Museum of Chinese in America",
+        "name:zh": "美國華人博物館",
+        "opening_hours": "Tu, We, Fr-Su 11:00-18:00; Th 11:00-21:00",
+        "opening_hours:url": "https://www.mocanyc.org/visit/",
+        "phone": "+1-855-955-6622",
+        "tourism": "museum",
+        "website": "https://www.mocanyc.org",
+        "wheelchair": "limited",
+        "wikidata": "Q1278593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9990481,
+          40.7194172
+        ]
+      },
+      "id": "node/4493554025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557940065",
+        "addr:city": "New York",
+        "addr:housenumber": "201",
+        "addr:postcode": "10012",
+        "addr:state": "NY",
+        "addr:street": "Mulberry Street",
+        "name": "The Glass Room",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9965632,
+          40.721501
+        ]
+      },
+      "id": "node/4557940065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605597194",
+        "addr:postcode": "10012",
+        "name": "ICP International Center of Photography Museum",
+        "opening_hours": "Tu-We, Fr-Su 10:00-18:00; Th 09:00-21:00",
+        "phone": "2128570000",
+        "tourism": "museum",
+        "website": "https://www.icp.org/facilities/museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9933858,
+          40.7230882
+        ]
+      },
+      "id": "node/4605597194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4631217591",
+        "alt_name": "Brooklyn Bridge Park Conservancy Environmental Education Center",
+        "name": "Environmental Education Center",
+        "operator": "Brooklyn Bridge Park Conservancy",
+        "tourism": "museum",
+        "website": "https://www.brooklynbridgepark.org/activities/classroom",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9893435,
+          40.704197
+        ]
+      },
+      "id": "node/4631217591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4631369553",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "1",
+        "addr:postcode": "11201",
+        "addr:street": "John Street",
+        "name": "Spark Brooklyn Children's Museum Annex",
+        "operator": "Brooklyn Children's Museum",
+        "tourism": "museum",
+        "website": "http://www.brooklynkids.org/spark/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9878179,
+          40.7045992
+        ]
+      },
+      "id": "node/4631369553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4631494763",
+        "name": "Seaford Historical Society",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4879237,
+          40.6685331
+        ]
+      },
+      "id": "node/4631494763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4697762580",
+        "addr:city": "New York",
+        "addr:housenumber": "172",
+        "addr:postcode": "10002",
+        "addr:state": "NY",
+        "addr:street": "Norfolk Street",
+        "name": "Angel Orensanz museum",
+        "tourism": "museum",
+        "wikidata": "Q4762236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9857222,
+          40.7211589
+        ]
+      },
+      "id": "node/4697762580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4745490617",
+        "amenity": "toilets",
+        "name": "Jones Beach Energy & Nature Center",
+        "office": "association",
+        "tourism": "museum",
+        "website": "https://www.jonesbeachenc.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5604196,
+          40.5848286
+        ]
+      },
+      "id": "node/4745490617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778356621",
+        "addr:housenumber": "200",
+        "fee": "yes",
+        "name": "Hayden Planetarium",
+        "opening_hours": "Mo-Su 10:00-17:45",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://haydenplanetarium.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q665475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9732273,
+          40.7814394
+        ]
+      },
+      "id": "node/4778356621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4822836222",
+        "name": "Garbage museum",
+        "name:en": "Garbage museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9439308,
+          40.7856582
+        ]
+      },
+      "id": "node/4822836222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975837317",
+        "fax": "+1-718-768-4663",
+        "name": "Lesbian Herstory Archives",
+        "opening_hours": "\"see website for schedule\"",
+        "phone": "+1-718-768-3953",
+        "tourism": "museum",
+        "website": "https://lesbianherstoryarchives.com",
+        "wikidata": "Q6530249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980323,
+          40.6619156
+        ]
+      },
+      "id": "node/4975837317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017262524",
+        "addr:housenumber": "945",
+        "addr:street": "Madison Avenue",
+        "name": "The Met Breuer",
+        "opening_hours": "Tu-We, Sa-Su 10:00-17:30; Th-Fr 10:00-21:00",
+        "tourism": "museum",
+        "wikidata": "Q23011166",
+        "wikipedia": "en:Met Breuer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9639632,
+          40.7734687
+        ]
+      },
+      "id": "node/5017262524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5022817661",
+        "name": "African Art Museum at the SMA",
+        "operator": "Society of African Missions",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961714,
+          40.9102896
+        ]
+      },
+      "id": "node/5022817661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5039012197",
+        "addr:city": "New York",
+        "addr:housenumber": "92",
+        "addr:postcode": "10006",
+        "addr:state": "NY",
+        "addr:street": "Greenwich Street",
+        "email": "info@911tributemuseum.org",
+        "name": "9/11 Tribute Museum",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
+        "phone": "+1-866-737-1184",
+        "tourism": "museum",
+        "website": "https://911tributemuseum.org/",
+        "wikidata": "Q17984748",
+        "wikipedia": "en:9/11 Tribute Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0137633,
+          40.7079432
+        ]
+      },
+      "id": "node/5039012197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166579821",
+        "addr:postcode": "10014",
+        "name": "Ground Zero Museum Workshop",
+        "opening_hours": "We-Su 11:00-15:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0067195,
+          40.74121
+        ]
+      },
+      "id": "node/5166579821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5296084264",
+        "addr:housenumber": "898",
+        "addr:postcode": "10032",
+        "addr:street": "Saint Nicholas Avenue",
+        "level": "-1;0",
+        "name": "Sugar Hill Children's Museum of Art and Story Telling",
+        "tourism": "museum",
+        "website": "https://www.sugarhillmuseum.org",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.941171,
+          40.8304543
+        ]
+      },
+      "id": "node/5296084264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5367500320",
+        "name": "Old Bethpage Village Restoration",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4474794,
+          40.7749216
+        ]
+      },
+      "id": "node/5367500320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5394515623",
+        "addr:street": "Flushing Avenue",
+        "email": "ridgewoodhistoricalsociety@gmail.com",
+        "name": "Greater Ridgewood Historical Society",
+        "opening_hours": "Sa-Su 13:00-17:00; We 15:00-19:00",
+        "phone": "+1-718-456-1776",
+        "tourism": "museum",
+        "website": "http://www.onderdonkhouse.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9200168,
+          40.7109086
+        ]
+      },
+      "id": "node/5394515623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5420936939",
+        "addr:housenumber": "144",
+        "addr:postcode": "10027",
+        "addr:street": "West 125th Street",
+        "name": "The Studio Museum In Harlem",
+        "tourism": "museum",
+        "wikidata": "Q903403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947616,
+          40.8084179
+        ]
+      },
+      "id": "node/5420936939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509996164",
+        "addr:city": "New York",
+        "addr:housenumber": "526",
+        "addr:postcode": "10012",
+        "addr:state": "NY",
+        "addr:street": "Laguardia Place",
+        "name": "The Renee and Chaim Gross Foundation",
+        "opening_hours": "Th,Fr 13:00-17:00",
+        "phone": "+1-212-529-4906",
+        "tourism": "museum",
+        "website": "http://www.rcgrossfoundation.org/",
+        "wikidata": "Q24259668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99882,
+          40.7284684
+        ]
+      },
+      "id": "node/5509996164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5576457144",
+        "fee": "yes",
+        "name": "Museum of the American Gangster",
+        "opening_hours": "Tu-Su 13:00-18:00; Mo 13:00-19:00",
+        "tourism": "museum",
+        "website": "https://theatre80.wordpress.com/about-80-st-marks-place/about-museum-of-the-american-gangster/",
+        "wikidata": "Q6941063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9858672,
+          40.7276111
+        ]
+      },
+      "id": "node/5576457144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640186350",
+        "addr:housenumber": "4",
+        "addr:postcode": "10013",
+        "addr:street": "Cortlandt Alley",
+        "contact:instagram": "https://www.instagram.com/mmuseumm",
+        "contact:twitter": "https://www.twitter.com/mmuseumm",
+        "description": "tiny exhibit space in a disused elevator",
+        "email": "info@mmuseumm.com",
+        "fee": "no",
+        "name": "Mmuseumm",
+        "opening_hours": "Sa-Su 12:00-18:00 open \"Museum\" || 00:00-24:00 open \"Viewing windows\"",
+        "phone": "+1 888 763 8839",
+        "tourism": "museum",
+        "website": "http://www.mmuseumm.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q22329588",
+        "wikipedia": "en:Mmuseumm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0028203,
+          40.7173656
+        ]
+      },
+      "id": "node/5640186350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721477303",
+        "name": "Underpenny Museum Antique & Collectables",
+        "phone": "+1-917-517-1492",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9533895,
+          40.7427467
+        ]
+      },
+      "id": "node/5721477303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5747114437",
+        "addr:housenumber": "1601",
+        "addr:street": "41st Street",
+        "name": "Living Torah Museum",
+        "tourism": "museum",
+        "wikidata": "Q6659326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9806247,
+          40.6355153
+        ]
+      },
+      "id": "node/5747114437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5747425246",
+        "addr:housenumber": "546",
+        "addr:street": "LaGuardia Place",
+        "name": "Center for Architecture",
+        "tourism": "museum",
+        "website": "https://www.centerforarchitecture.org/",
+        "wikidata": "Q5059504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9985805,
+          40.72873
+        ]
+      },
+      "id": "node/5747425246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5962390830",
+        "addr:housenumber": "127",
+        "addr:postcode": "10562",
+        "addr:street": "Main Street",
+        "name": "Sing Sing Prison Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8642639,
+          41.1610004
+        ]
+      },
+      "id": "node/5962390830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6035120505",
+        "addr:housenumber": "77",
+        "addr:street": "8th Avenue",
+        "name": "Museum of Illusions",
+        "tourism": "museum",
+        "website": "https://museumofillusions.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0028554,
+          40.7396591
+        ]
+      },
+      "id": "node/6035120505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6234635908",
+        "addr:city": "New York",
+        "addr:housenumber": "235",
+        "addr:postcode": "10002",
+        "addr:state": "NY",
+        "addr:street": "Bowery",
+        "description": "A non-profit organization and museum for Internet art, housed in the New Museum.",
+        "email": "info@rhizome.org",
+        "name": "Rhizome",
+        "operator": "Zachary Kaplan",
+        "phone": "(646) 552-2313",
+        "tourism": "museum",
+        "wikipedia": "en:Rhizome (organization)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9929044,
+          40.7224177
+        ]
+      },
+      "id": "node/6234635908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327571234",
+        "addr:city": "New City",
+        "addr:housenumber": "20",
+        "addr:postcode": "10956",
+        "addr:state": "NY",
+        "addr:street": "Zukor Road",
+        "inscription": "Built in 1832 by Jacob Blauvelt",
+        "name": "Blauvelt Homestead",
+        "operator": "Historical Society of Rockland County",
+        "site_type": "settlement",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9869399,
+          41.1710299
+        ]
+      },
+      "id": "node/6327571234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327577490",
+        "addr:city": "New City",
+        "addr:housenumber": "20",
+        "addr:postcode": "10956",
+        "addr:state": "NY",
+        "addr:street": "Zukor Road",
+        "name": "History Center Museum",
+        "opening_hours": "We-Fr,Su 12:00-16:00",
+        "operator": "Historical Society of Rockland",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9864678,
+          41.171034
+        ]
+      },
+      "id": "node/6327577490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6481772610",
+        "addr:housenumber": "155",
+        "addr:street": "Avenue C",
+        "alt_name": "MoRUS",
+        "contact:facebook": "https://www.facebook.com/morusnyc",
+        "contact:instagram": "https://www.instagram.com/morusnyc/",
+        "contact:twitter": "https://twitter.com/MoRUSNYC",
+        "email": "info@morusnyc.org",
+        "fee": "yes",
+        "level": "0",
+        "name": "Museum of Reclaimed Urban Space",
+        "opening_hours": "Tu,Th-Su 11:00-19:00",
+        "phone": "+1-646-340-8341",
+        "toilets": "yes",
+        "toilets:access": "permissive",
+        "toilets:unisex": "yes",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "website": "https://morusnyc.org/",
+        "wheelchair": "no",
+        "wikidata": "Q6941005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9778791,
+          40.7257313
+        ]
+      },
+      "id": "node/6481772610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6562823263",
+        "name": "Brooklyn Historical Society",
+        "source": "Mapbox",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9919921,
+          40.7037138
+        ]
+      },
+      "id": "node/6562823263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6582352776",
+        "addr:housenumber": "279",
+        "addr:street": "Empire Boulevard",
+        "description": "The Museum of Women's Resistance (MoWRe) examines the influence of women of African descent and women of color from the Global South and their resistance movements.",
+        "name": "Museum of Women's Resistance",
+        "opening_hours": "Mo-Fr 10:30-17:30",
+        "phone": "(347) 533-9103",
+        "tourism": "museum",
+        "website": "https://www.museumofwomensresistance.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9529171,
+          40.6640057
+        ]
+      },
+      "id": "node/6582352776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6587148985",
+        "name": "New York Magic Lab",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0046577,
+          40.7403565
+        ]
+      },
+      "id": "node/6587148985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6852303846",
+        "name": "The AKC Museum of the Dog",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9776714,
+          40.7506893
+        ]
+      },
+      "id": "node/6852303846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7016083504",
+        "addr:city": "Cold Spring Harbor",
+        "addr:housenumber": "161",
+        "addr:postcode": "11724",
+        "addr:state": "NY",
+        "addr:street": "West Main Street",
+        "name": "Preservation Long Islannd",
+        "tourism": "museum",
+        "website": "http://preservationlonglsland.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4571951,
+          40.8712559
+        ]
+      },
+      "id": "node/7016083504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7021277667",
+        "addr:housenumber": "330",
+        "addr:street": "Paramus Road",
+        "name": "Paramus Historic Museum",
+        "tourism": "museum",
+        "website": "http://www.paramushistoricalmuseum.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0933,
+          40.9485
+        ]
+      },
+      "id": "node/7021277667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7041713696",
+        "addr:housenumber": "128",
+        "addr:street": "East 63rd Street",
+        "name": "Museum Of Illustration",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966827,
+          40.7648187
+        ]
+      },
+      "id": "node/7041713696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089432281",
+        "gnis:feature_id": "2507960",
+        "name": "Cradle of Aviation Museum",
+        "tourism": "museum",
+        "wikidata": "Q5180482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5974782,
+          40.7283473
+        ]
+      },
+      "id": "node/7089432281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089438187",
+        "name": "Nassau County Firefighters Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5980032,
+          40.728222
+        ]
+      },
+      "id": "node/7089438187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7131445258",
+        "addr:city": "Haledon",
+        "addr:housenumber": "83",
+        "addr:postcode": "07508",
+        "addr:state": "NJ",
+        "addr:street": "Norwood Street",
+        "name": "American Labor Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1883172,
+          40.9348659
+        ]
+      },
+      "id": "node/7131445258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152625885",
+        "name": "Museum of Ice Cream",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9979055,
+          40.7238654
+        ]
+      },
+      "id": "node/7152625885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7209268009",
+        "name": "First City Project",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6247371,
+          40.8633612
+        ]
+      },
+      "id": "node/7209268009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7237418930",
+        "museum": "art",
+        "name": "Godwin-Ternbach Museum",
+        "tourism": "museum",
+        "wikidata": "Q18343137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8168948,
+          40.7363746
+        ]
+      },
+      "id": "node/7237418930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7866085103",
+        "name": "Museum of Early Trades and Crafts Education Annex",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4163565,
+          40.7593818
+        ]
+      },
+      "id": "node/7866085103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8132573640",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "370",
+        "addr:postcode": "11211",
+        "addr:state": "NY",
+        "addr:street": "Metropolitan Avenue",
+        "museum": "local",
+        "name": "The City Reliquary",
+        "opening_hours": "Th-Su 12:00-18:00; PH off",
+        "tourism": "museum",
+        "website": "http://cityreliquary.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9557409,
+          40.7139536
+        ]
+      },
+      "id": "node/8132573640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8270992264",
+        "addr:city": "New York",
+        "addr:housenumber": "58",
+        "addr:postcode": "10027",
+        "addr:state": "NY",
+        "addr:street": "West 129th Street",
+        "museum": "history",
+        "name": "Natonial Jazz Museum in Harlem",
+        "opening_hours:covid19": "off",
+        "tourism": "museum",
+        "website": "https://jazzmuseuminharlem.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9430899,
+          40.8099499
+        ]
+      },
+      "id": "node/8270992264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8277048658",
+        "addr:city": "Greenwich",
+        "addr:housenumber": "47",
+        "addr:postcode": "06807",
+        "addr:state": "CT",
+        "addr:street": "Strickland Road",
+        "museum": "history",
+        "name": "Greenwich Historical Society",
+        "ref:isil": "US-CtCcGHS",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5979104,
+          41.0338493
+        ]
+      },
+      "id": "node/8277048658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8307408828",
+        "addr:city": "New York",
+        "addr:housenumber": "3940",
+        "addr:postcode": "10032",
+        "addr:state": "NY",
+        "addr:street": "Broadway",
+        "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
+        "tourism": "museum",
+        "website": "https://theshabazzcenter.org",
+        "wikidata": "Q6742732",
+        "wikipedia": "en:Malcolm X and Dr. Betty Shabazz Memorial and Educational Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9406753,
+          40.8393577
+        ]
+      },
+      "id": "node/8307408828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8508212000",
+        "name": "Roslyn Landmark Society",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6503387,
+          40.7988976
+        ]
+      },
+      "id": "node/8508212000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8839907176",
+        "addr:housenumber": "4",
+        "addr:street": "Courthouse Drive",
+        "name": "Firefighter Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1938612,
+          40.7639332
+        ]
+      },
+      "id": "node/8839907176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8873306668",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "62",
+        "addr:postcode": "11222",
+        "addr:state": "NY",
+        "addr:street": "Bayard Street",
+        "name": "Museum of Food and Drink",
+        "opening_hours:covid19": "closed",
+        "tourism": "museum",
+        "website": "https://www.mofad.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9495538,
+          40.7189546
+        ]
+      },
+      "id": "node/8873306668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8920490209",
+        "addr:city": "Jersey City",
+        "addr:housenumber": "1841",
+        "addr:postcode": "07305",
+        "addr:state": "NJ",
+        "addr:street": "John F. Kennedy Boulevard",
+        "museum": "history",
+        "name": "Afro-American Historical Society Museum",
+        "opening_hours": "Sa 09:00-17:00",
+        "tourism": "museum",
+        "website": "https://visitnj.org/nj-galleries/afro-american-historical-society-museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0913269,
+          40.7030407
+        ]
+      },
+      "id": "node/8920490209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942135848",
+        "addr:city": "New York",
+        "addr:housenumber": "1280",
+        "addr:postcode": "10029",
+        "addr:state": "NY",
+        "addr:street": "5th Avenue",
+        "museum": "art",
+        "name": "The Africa Center",
+        "opening_hours": "Su-Th 12:00-20:00",
+        "tourism": "museum",
+        "website": "https://www.theafricacenter.org/",
+        "wikidata": "Q1954603",
+        "wikipedia": "en:The Africa Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9493338,
+          40.7963422
+        ]
+      },
+      "id": "node/8942135848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942168458",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "80",
+        "addr:postcode": "11217",
+        "addr:state": "NY",
+        "addr:street": "Hanson Place",
+        "alt_name": "MoCADA",
+        "name": "Museum of Contemporary African Diasporan Arts",
+        "tourism": "museum",
+        "website": "https://www.mocada.org/",
+        "wikidata": "Q6886122",
+        "wikipedia": "en:Museum of Contemporary African Diasporan Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9744276,
+          40.68535
+        ]
+      },
+      "id": "node/8942168458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9007964737",
+        "addr:housenumber": "47",
+        "addr:street": "East 60th Street",
+        "name": "Grolier Club",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9698587,
+          40.7640002
+        ]
+      },
+      "id": "node/9007964737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9136326361",
+        "addr:city": "New York",
+        "addr:housenumber": "26",
+        "addr:postcode": "10013",
+        "addr:state": "NY",
+        "addr:street": "Wooster Street",
+        "lgbtq": "primary",
+        "museum": "art",
+        "name": "Leslie-Lohman Museum of Art",
+        "phone": "+1 212 431 2609",
+        "tourism": "museum",
+        "website": "https://www.leslielohman.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q6530976",
+        "wikipedia": "en:Leslie-Lohman Museum of Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0030317,
+          40.7217683
+        ]
+      },
+      "id": "node/9136326361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9371206933",
+        "addr:city": "New York",
+        "addr:housenumber": "79",
+        "addr:postcode": "10002",
+        "addr:state": "NY",
+        "addr:street": "Essex Street",
+        "museum": "art",
+        "name": "International Center of Photography",
+        "opening_hours": "11:00-19:00; Tu off; Th 11:00-21:00",
+        "tourism": "museum",
+        "website": "https://www.icp.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9886491,
+          40.718097
+        ]
+      },
+      "id": "node/9371206933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9505939776",
+        "addr:city": "New York",
+        "addr:housenumber": "290",
+        "addr:postcode": "10023",
+        "addr:state": "NY",
+        "addr:street": "Columbus Avenue",
+        "name": "NYC Barber Shop Museum",
+        "opening_hours": "Tu-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+        "phone": "+1-646-476-3525",
+        "shop": "hairdresser",
+        "tourism": "museum",
+        "website": "https://www.nycbarbershopmuseum.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9781357,
+          40.7786086
+        ]
+      },
+      "id": "node/9505939776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9802261328",
+        "addr:city": "Florham Park",
+        "addr:housenumber": "4",
+        "addr:postcode": "07932",
+        "addr:state": "NJ",
+        "addr:street": "Vreeland Road",
+        "email": "contactus@imaginethatmuseum.com",
+        "museum": "children",
+        "name": "Imagine That!!!",
+        "phone": "+1-973-966-8000",
+        "tourism": "museum",
+        "website": "https://imaginethatmuseum.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.373917,
+          40.792503
+        ]
+      },
+      "id": "node/9802261328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9812441192",
+        "name": "Bayville Historical MuseumSt Gertrude Catholic Church",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5663649,
+          40.9078295
+        ]
+      },
+      "id": "node/9812441192"
+    }
+  ]
+}
