@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Create and style clusters</title>
+<title>Airports in the World.</title>
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js"></script>
@@ -12,6 +12,11 @@ body { margin: 0; padding: 0; }
 </style>
 </head>
 <body>
+
+<div class="w3-bar w3-black">
+<div class="w3-bar-item">Airports in the World.</div>
+</div>
+	  
 <div id="map"></div>
 
 <script>
@@ -19,28 +24,29 @@ body { margin: 0; padding: 0; }
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/dark-v10',
-        center: [-103.5917, 40.6699],
-        zoom: 3
+        center: [33, 42],
+        zoom: 1,
+		projection: 'globe',
     });
 
     map.on('load', () => {
         // Add a new source from our GeoJSON data and
         // set the 'cluster' option to true. GL-JS will
         // add the point_count property to your source data.
-        map.addSource('earthquakes', {
+        map.addSource('airports', {
             type: 'geojson',
-            // Point to GeoJSON data. This example visualizes all M1.0+ earthquakes
+            // Point to GeoJSON data. This example visualizes all M1.0+ airports
             // from 12/22/15 to 1/21/16 as logged by USGS' Earthquake hazards program.
-            data: 'https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson',
+            data: './data/airport.json',
             cluster: true,
-            clusterMaxZoom: 14, // Max zoom to cluster points on
-            clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
+            clusterMaxZoom: 20, // Max zoom to cluster points on
+            clusterRadius: 60 // Radius of each cluster when clustering points (defaults to 50)
         });
 
         map.addLayer({
             id: 'clusters',
             type: 'circle',
-            source: 'earthquakes',
+            source: 'airports',
             filter: ['has', 'point_count'],
             paint: {
                 // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
@@ -51,9 +57,9 @@ body { margin: 0; padding: 0; }
                 'circle-color': [
                     'step',
                     ['get', 'point_count'],
-                    '#51bbd6',
+                    "#0072B5",
                     100,
-                    '#f1f075',
+                    "#f1f075",
                     750,
                     '#f28cb1'
                 ],
@@ -72,7 +78,7 @@ body { margin: 0; padding: 0; }
         map.addLayer({
             id: 'cluster-count',
             type: 'symbol',
-            source: 'earthquakes',
+            source: 'airports',
             filter: ['has', 'point_count'],
             layout: {
                 'text-field': '{point_count_abbreviated}',
@@ -84,12 +90,12 @@ body { margin: 0; padding: 0; }
         map.addLayer({
             id: 'unclustered-point',
             type: 'circle',
-            source: 'earthquakes',
+            source: 'airports',
             filter: ['!', ['has', 'point_count']],
             paint: {
-                'circle-color': '#11b4da',
-                'circle-radius': 4,
-                'circle-stroke-width': 1,
+                'circle-color': '#9B2335',
+                'circle-radius': 6,
+                'circle-stroke-width': 2,
                 'circle-stroke-color': '#fff'
             }
         });
@@ -100,7 +106,7 @@ body { margin: 0; padding: 0; }
                 layers: ['clusters']
             });
             const clusterId = features[0].properties.cluster_id;
-            map.getSource('earthquakes').getClusterExpansionZoom(
+            map.getSource('airports').getClusterExpansionZoom(
                 clusterId,
                 (err, zoom) => {
                     if (err) return;
@@ -119,9 +125,8 @@ body { margin: 0; padding: 0; }
         // description HTML from its properties.
         map.on('click', 'unclustered-point', (e) => {
             const coordinates = e.features[0].geometry.coordinates.slice();
-            const mag = e.features[0].properties.mag;
-            const tsunami =
-                e.features[0].properties.tsunami === 1 ? 'yes' : 'no';
+            const mag = e.features[0].properties.name;
+
 
             // Ensure that if the map is zoomed out such that
             // multiple copies of the feature are visible, the
@@ -133,7 +138,7 @@ body { margin: 0; padding: 0; }
             new mapboxgl.Popup()
                 .setLngLat(coordinates)
                 .setHTML(
-                    `magnitude: ${mag}<br>Was there a tsunami?: ${tsunami}`
+                    `${mag}`
                 )
                 .addTo(map);
         });
